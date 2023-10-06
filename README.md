@@ -9,7 +9,7 @@ Copy all the code (Ctrl+C on Windows/Linux or Cmd+C on macOS).
 Use an Online Compiler
 
 Go to https://www.programiz.com/cpp-programming/online-compiler/
-#code
+
 Paste the code into the code area (Ctrl+V on Windows/Linux or Cmd+V on macOS).
 
 Click the 'Run' button.
