@@ -4,6 +4,7 @@ How to Run the Age Calculator
 Copy the Code
 
 Open the Age-Calculator.cpp file in the GitHub repository.
+
 Copy all the code (Ctrl+C on Windows/Linux or Cmd+C on macOS).
 
 Use an Online Compiler
