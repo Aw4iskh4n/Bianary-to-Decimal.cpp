@@ -1,9 +1,9 @@
 # Bianary-to-Decimal.cpp
-How to Run the Age Calculator
+How to Run the Binary-to-Decimal
 
 Copy the Code
 
-Open the Age-Calculator.cpp file in the GitHub repository.
+Open the Binary-to-Decimal.cpp file in the GitHub repository.
 
 Copy all the code (Ctrl+C on Windows/Linux or Cmd+C on macOS).
 
@@ -15,5 +15,5 @@ Paste the code into the code area (Ctrl+V on Windows/Linux or Cmd+V on macOS).
 
 Click the 'Run' button.
 
-Now, follow any on-screen instructions provided by the program to calculate age.
+Now, follow any on-screen instructions provided by the program to convert Binary-to-Decimal .
 
