@@ -1,10 +1,18 @@
 # Bianary-to-Decimal.cpp
-A handy tool that quickly converts binary numbers to decimal. Built in C++, it's designed for accuracy and simplicity, making binary-to-decimal translations straightforward and error-free.
+How to Run the Age Calculator
 
+Copy the Code
 
-echo "# Bianary-to-Decimal" >> README.md 
-git init git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/Aw4iskh4n/Bianary-to-Decimal.git 
-git push -u origin main
+Open the Age-Calculator.cpp file in the GitHub repository.
+Copy all the code (Ctrl+C on Windows/Linux or Cmd+C on macOS).
+
+Use an Online Compiler
+
+Go to https://www.programiz.com/cpp-programming/online-compiler/
+#code
+Paste the code into the code area (Ctrl+V on Windows/Linux or Cmd+V on macOS).
+
+Click the 'Run' button.
+
+Now, follow any on-screen instructions provided by the program to calculate age.
+
